@@ -1,0 +1,1 @@
+data Multimap a = [(Int, a)]

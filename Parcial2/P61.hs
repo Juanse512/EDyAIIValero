@@ -1,0 +1,1 @@
+data BTree a = Empty | Node Int (BTree a) a (BTree a)
